@@ -1,6 +1,3 @@
-TOOLS DDOS BY Reys
-#Apa-liat liat tod
-#cuman tools sederhana
 import time
 import socket
 import os
