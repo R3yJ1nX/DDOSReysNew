@@ -1,5 +1,3 @@
-Mau recode ya.... silahkan... tapi usahakan belajar sendiri dulu dari internet ya
-
 import time
 import socket
 import os
